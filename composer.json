@@ -1,0 +1,17 @@
+{
+  "name": "p7g/event-emitter",
+  "description": "Node.js-style event emitter class",
+  "homepage": "https://github.com/ging0044/event-emitter",
+  "license": "MIT",
+  "keywords": [
+    "event"
+  ],
+  "require": {
+    "php": ">=7.1.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "p7g\\EventEmitter\\": "src"
+    }
+  }
+}
